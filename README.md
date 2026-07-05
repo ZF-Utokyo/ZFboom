@@ -1,6 +1,6 @@
-# Fan Zhang Personal Homepage
+# Personal Homepage
 
-This is a lightweight GitHub Pages-ready personal homepage for Fan Zhang.
+This is a lightweight GitHub Pages-ready personal homepage.
 
 ## Files
 
@@ -11,25 +11,3 @@ This is a lightweight GitHub Pages-ready personal homepage for Fan Zhang.
 - `assets/finreporting-system.png`: teaser image for the FinReporting selected publication.
 - `assets/Fan.pdf`: CV linked from the profile panel.
 
-## Publish on GitHub Pages
-
-For a user homepage, create or use a public repository named:
-
-```text
-ZF-Utokyo.github.io
-```
-
-Put these files at the repository root, push to GitHub, then enable Pages from
-the repository's default branch. GitHub Pages serves user sites from:
-
-```text
-https://ZF-Utokyo.github.io/
-```
-
-## Materials to Add Later
-
-- LinkedIn profile link.
-- Chinese name, if it should appear beside `Fan Zhang`.
-- Publications with title, authors, venue, year, and links.
-- Advisor, lab, degree timeline, and previous education.
-- Any project pages or demos that should be highlighted above repository forks.
